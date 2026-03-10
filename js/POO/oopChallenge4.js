@@ -1,3 +1,9 @@
+/*
+Exercício:
+Implemente uma classe de gerenciamento de array que você possa determinar o tamanho fixo do array, 
+além de adicionar e remover valores, sem uso de métodos de array + validações.
+*/
+
 class arrayManager {
   constructor(length) {
     this.array = [];
@@ -59,9 +65,3 @@ class arrayManager {
 }
 
 let array = new arrayManager(3);
-
-array.addValue(4);
-array.addValue(4);
-array.addValue(4);
-
-array.length = 1;

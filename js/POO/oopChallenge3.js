@@ -1,3 +1,9 @@
+/*
+Exercício:
+Implemente uma classe de livraria que é capaz de devolver, emprestar livros e listar eles com todas suas informações
+Crie uma classe livro para ser cadastrado na livraria.
+*/
+
 class Library {
   constructor() {
     this.books = [];
