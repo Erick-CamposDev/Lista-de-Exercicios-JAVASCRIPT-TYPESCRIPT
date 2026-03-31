@@ -1,0 +1,25 @@
+{
+  "name": "exercicios-js-ts",
+  "version": "1.0.0",
+  "description": "![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)\r ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge)\r ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)\r ![Repo Size](https://img.shields.io/github/repo-size/Erick-CamposDev/Lista-de-Exercicios-JAVASCRIPT?style=for-the-badge)\r ![Stars](https://img.shields.io/github/stars/Erick-CamposDev/Lista-de-Exercicios-JAVASCRIPT?style=for-the-badge)",
+  "main": "index.js",
+  "scripts": {
+    "start:ts": "npx tsx",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erick-CamposDev/Lista-de-Exercicios-JAVASCRIPT.git"
+  },
+  "keywords": [],
+  "author": "Erick Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erick-CamposDev/Lista-de-Exercicios-JAVASCRIPT/issues"
+  },
+  "homepage": "https://github.com/Erick-CamposDev/Lista-de-Exercicios-JAVASCRIPT#readme",
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}
