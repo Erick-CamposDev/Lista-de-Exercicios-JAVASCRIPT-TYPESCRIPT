@@ -74,7 +74,7 @@ Este repositório tem como principais objetivos:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/SEU_USUARIO/Exercícios-JS/TS.git
 ```
 
 2. Entre na pasta:
